@@ -183,5 +183,5 @@
 {"type":"Feature","properties":{"name":"Saint-Michel%20-%20Valloire"},"geometry":{"type":"Point","coordinates":[6.134, 48.157]},"id":"ak020frm4jci"},
 {"type":"Feature","properties":{"name":"Belfort%20-%20Montb%EF%BF%BDliard%20TGV"},"geometry":{"type":"Point","coordinates":[6.858, 47.637]},"id":"ak020frm4jci"},
 {"type":"Feature","properties":{"name":"Massy%20-%20Palaiseau"},"geometry":{"type":"Point","coordinates":[2.243, 48.731]},"id":"ak020frm4jci"},
-{"type":"Feature","properties":{"name":"Massy%20TGV"},"geometry":{"type":"Point","coordinates":[2.291, 48.736]},"id":"ak020frm4jci"},
+{"type":"Feature","properties":{"name":"Massy%20TGV"},"geometry":{"type":"Point","coordinates":[2.291, 48.736]},"id":"ak020frm4jci"}
 ]}
