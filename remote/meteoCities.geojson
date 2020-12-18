@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"features": [
+{"type":"Feature","properties":{"name":"Angoulême", "temp":6.63},"geometry":{"type":"Point","coordinates":[0.160000, 45.650002]},"id":"ak020frm4jci"},
+{"type":"Feature","properties":{"name":"Boulogne-sur-Mer", "temp":8.44},"geometry":{"type":"Point","coordinates":[1.614700, 50.726398]},"id":"ak020frm4jci"},
+{"type":"Feature","properties":{"name":"Rosny-sous-Bois", "temp":5.81},"geometry":{"type":"Point","coordinates":[2.483300, 48.866699]},"id":"ak020frm4jci"}
+]}
