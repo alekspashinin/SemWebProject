@@ -47,5 +47,5 @@
 {"type":"Feature","properties":{"name":"Tours", "temp":5.31},"geometry":{"type":"Point","coordinates":[0.689200, 47.243599]},"id":"ak020frm4jci"},
 {"type":"Feature","properties":{"name":"Limoges", "temp":3.81},"geometry":{"type":"Point","coordinates":[1.262500, 45.835300]},"id":"ak020frm4jci"},
 {"type":"Feature","properties":{"name":"Clermont-Ferrand", "temp":2.94},"geometry":{"type":"Point","coordinates":[3.082400, 45.783100]},"id":"ak020frm4jci"},
-{"type":"Feature","properties":{"name":"Aix-en-Provence", "temp":9.63},"geometry":{"type":"Point","coordinates":[5.445429, 43.526302]},"id":"ak020frm4jci"},
+{"type":"Feature","properties":{"name":"Aix-en-Provence", "temp":9.63},"geometry":{"type":"Point","coordinates":[5.445429, 43.526302]},"id":"ak020frm4jci"}
 ]}
